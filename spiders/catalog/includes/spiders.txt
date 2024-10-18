@@ -1,0 +1,138 @@
+$Id$
+2ip bot
+almaden.ibm.com
+abachobot
+accoona-ai-agent
+addsugarspiderbot
+adsbot-google
+ahrefsbot
+almaden.ibm.com
+amazonbot
+applebot
+arachmo
+baiduspider
+barkrowler
+becomebot
+beslistbot
+bimbot
+bingbot
+bitsightbot
+brightedge
+bytespider
+chatgpt-user
+cincraw
+claudebot
+clickagy intelligence bot
+cloudservermarketspider
+cookiebot
+dataparksearch
+dotbot
+discordbot
+dnbcrawler
+duckduckbot
+envolk[its]spider
+ev-crawler
+exabot
+facebookexternalhit
+facebot
+fast enterprise crawler
+fast-webcrawler
+furlbot
+fyberspider
+galaxybot
+gigabot
+girafabot
+googlebot
+googlebot-image
+gptbot
+gulperbot
+holmes
+hubspot crawler
+ia_archiver
+ichiro
+igdespyder
+imagesiftbot
+ioncrawl
+irlbot
+keys-so-bot
+l.webis
+larbin
+ldspider
+lexxebot
+linguee bot
+linkwalker
+linkedinbot
+lmspider
+lwp-trivial
+mabontland
+magpie-crawler
+mediapartners-google
+mj12bot
+mnogosearch
+mojeekbot
+moreoverbot
+morning paper
+msnbot
+mxbot
+netresearchserver
+netseer crawler
+newsgator
+ng-search
+nicebot
+nicecrawler
+noxtrumbot
+nutchcvs
+obot
+oozbot
+orangebot
+orbbot
+pinterestbot
+polybot
+psbot
+pycurl
+scoutjet
+screaming frog seo spider
+scrubby
+seekbot
+seekportbot
+semrushbot
+seochat::bot
+seznambot
+shim-crawler
+shopwiki
+shoula robot
+silk
+snappy
+sogou spider
+sosospider
+speedy spider
+stackrambler
+storebot-google
+suggybot
+surdotlybot
+synoobot
+teoma
+t3versionsbot
+thumbnail.cz robot
+timpibot
+tineye
+turnitinbot
+twengabot
+twitterbot
+urlfilebot
+vagabondo
+voltron
+websquash.com
+wpbot
+yacy
+yahoo! slurp
+yahooseeker
+yandexbot
+yandeximages
+yandexmobilebot
+yeti
+yodaobot
+youbot
+youdaobot
+zealbot
+zyborg
